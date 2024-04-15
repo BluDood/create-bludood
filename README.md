@@ -1,3 +1,6 @@
+> [!WARNING]  
+> Deprecated. Just use [`create-vite`](https://www.npmjs.com/package/create-vite).
+
 # `create-bludood`
 
 A package that lets you create new projects based on templates I use frequently.
